@@ -1,10 +1,10 @@
 **Desperately in need of project ideas**
 
-Currently Working in: JavaScript, HTML, CSS
+Currently working in JavaScript, HTML, CSS
 
-Decent Experience in: C#, Python, Java
+Decent experience in C#, Python, Java
 
-Minimal Experience in: Go, Kotlin, SQL
+Some experience in Go, Kotlin, SQL, and some others
 
 
 
