@@ -1,8 +1,8 @@
-**Desperately in need of project ideas**
+**ree hee hee**
 
 > Currently working in JavaScript, HTML, CSS<br>
 > Decent experience in C#, Python, Java<br>
-> Some experience in Go, Kotlin, SQL, and some others
+> Some experience in Go, Kotlin, SQL, etc
 
 
 <!-- - 👋 Hi, I’m @Thomas-Gilligan-Student
